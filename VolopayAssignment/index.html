@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Card Listing</h1>
+      <div class="search-container">
+        <input type="text" id="search-input" placeholder="Search by card name...">
+        <button id="search-button">Search</button>
+      </div>
+    </div>
+    <div class="tabs">
+      <button class="tab-button active">Your</button>
+      <button class="tab-button">All</button>
+      <button class="tab-button">Blocked</button>
+    </div>
+    <div class="filter-container">
+      <div class="dropdown">
+        <button class="filter-button">Filter</button>
+        <div class="dropdown-content">
+          <label for="subscription-filter">Subscription</label>
+          <input type="checkbox" id="subscription-filter">
+          <label for="burner-filter">Burner</label>
+          <input type="checkbox" id="burner-filter">
+        </div>
+      </div>
+    </div>
+    <div id="card-list"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
