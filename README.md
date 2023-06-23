@@ -37,7 +37,7 @@ Font Awesome: Used for icons and additional styling elements.
 
 To run the budget management web app locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/budget-management-web-app.git
+Clone the repository: git clone  https://github.com/ShakthiVar/VolopayFEAssignment/
 
 Navigate to the project directory: cd budget-management-web-app
 
@@ -59,7 +59,10 @@ The card list will dynamically update based on the applied filters and search cr
 
 Click on a card to view more details or perform additional actions related to the card.
 
-Implementation
+
+**Implementation**
+
+https://volopay-fe-assignments.vercel.app/
 
 **Contribution**
 
