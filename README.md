@@ -1,11 +1,11 @@
 # VolopayFEAssignment
 
-Budget Management Web App
+**Budget Management Web App**
 
 
 This is a budget management web application that allows users to view and manage their expenses. Users can see their budget details, filter and search for specific cards, and perform various actions based on their needs.
 
-Features
+**Features**
 
 View a list of budget cards with details such as name, budget name, status, and additional information.
 
@@ -17,7 +17,9 @@ Filter cards by card type (subscription or burner) using checkboxes.
 
 Real-time updating of the card list based on filter and search criteria.
 
-Technologies Used
+
+**Technologies Used**:
+
 
 HTML: Used for structuring the web page and defining its elements.
 
@@ -29,7 +31,9 @@ Bootstrap: Used for responsive design and pre-built CSS components.
 
 Font Awesome: Used for icons and additional styling elements.
 
-Getting Started
+****
+Getting Started****
+
 
 To run the budget management web app locally, follow these steps:
 
@@ -39,7 +43,9 @@ Navigate to the project directory: cd budget-management-web-app
 
 Open the index.html file in a web browser.
 
-Usage
+
+**Usage**
+
 
 Upon opening the web app, you will see a list of budget cards.
 
@@ -53,7 +59,9 @@ The card list will dynamically update based on the applied filters and search cr
 
 Click on a card to view more details or perform additional actions related to the card.
 
-Contributing
+**
+Contributing**
+
 
 Contributions to the budget management web app are welcome! 
 If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
