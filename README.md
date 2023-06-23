@@ -31,8 +31,8 @@ Bootstrap: Used for responsive design and pre-built CSS components.
 
 Font Awesome: Used for icons and additional styling elements.
 
-****
-Getting Started****
+
+**Getting Started**
 
 
 To run the budget management web app locally, follow these steps:
@@ -59,9 +59,9 @@ The card list will dynamically update based on the applied filters and search cr
 
 Click on a card to view more details or perform additional actions related to the card.
 
-**
-Contributing**
+Implementation
 
+**Contribution**
 
 Contributions to the budget management web app are welcome! 
 If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
